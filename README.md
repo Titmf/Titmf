@@ -67,7 +67,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED">
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?logo=kubernetes&logoColor=326CE5">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=FCC624">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-000?logo=githubactions&logoColor=2088FF">
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-000?logo=nginx&logoColor=009639">
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-000?logo=rabbitmq&logoColor=FF6600">
@@ -76,6 +75,16 @@
   <img alt="SSH" src="https://img.shields.io/badge/-SSH-000?logo=openssh&logoColor=fff">
   <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-000?logo=obsidian&logoColor=7C3AED">
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=fff">
+</p>
+
+### Software and Tools
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032">
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-000?logo=stackoverflow&logoColor=FE7A16">
+  <img alt="Rider" src="https://img.shields.io/badge/-Rider-000?logo=rider&logoColor=fff">
+  <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-000?logo=dbeaver&logoColor=fff">
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-000?logo=anthropic&logoColor=D97757">
 </p>
 
 ## GitHub Stats
@@ -96,4 +105,12 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Titmf/Titmf/output/github-contribution-grid-snake-dark.svg">
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Titmf/Titmf/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Titmf" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/timf-workspace/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:mima.miheev.tm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
