@@ -93,21 +93,16 @@
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Titmf&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true">
-    <img alt="Tim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Titmf&show_icons=true&include_all_commits=true&theme=default&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Titmf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
-    <img alt="Tim's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titmf&layout=compact&langs_count=8&theme=default&hide_border=true">
-  </picture>
+  <img alt="Tim's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Titmf&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="170">
+  <img alt="Tim's top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Titmf&layout=compact&langs_count=8&theme=default&hide_border=true" height="170">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Titmf/Titmf/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Titmf/Titmf/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="Tim's streak" src="https://streak-stats.demolab.com/?user=Titmf&theme=default&hide_border=true">
+</p>
+
+<p align="center">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Titmf/Titmf/output/github-contribution-grid-snake.svg">
 </p>
 
 ## Let's Connect
