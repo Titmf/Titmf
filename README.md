@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tim! 👋</h1>
+<h1 align="center">Hi, I'm Tim!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Titmf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,9 +9,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;.NET+%7C+Python+Backend;Automation+%26+Bots;Always+learning+new+things&center=true&width=380&height=45" alt="Typing SVG"></a>
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming and Markup Languages
+### Programming and Markup Languages
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-000?logo=cplusplus&logoColor=00599C">
@@ -24,7 +24,7 @@
   <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-000?logo=gnubash&logoColor=5391FE">
 </p>
 
-### 📚 Familiar With
+### Familiar With
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E">
@@ -36,7 +36,7 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-000?logo=go&logoColor=00ADD8">
 </p>
 
-### 🧰 Frameworks and Libraries
+### Frameworks and Libraries
 
 <p>
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-000?logo=dotnet&logoColor=512BD4">
@@ -47,7 +47,7 @@
   <img alt="SignalR" src="https://img.shields.io/badge/-SignalR-000?logo=dotnet&logoColor=00B4E0">
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### Databases and Cloud Hosting
 
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoColor=4169E1">
@@ -59,7 +59,7 @@
   <img alt="Oracle Cloud" src="https://img.shields.io/badge/-Oracle%20Cloud-000?logo=oracle&logoColor=F80000">
 </p>
 
-### ⚙️ Technologies
+### Technologies
 
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?logo=amazonwebservices&logoColor=FF9900">
@@ -75,9 +75,10 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-000?logo=postman&logoColor=FF6C37">
   <img alt="SSH" src="https://img.shields.io/badge/-SSH-000?logo=openssh&logoColor=fff">
   <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-000?logo=obsidian&logoColor=7C3AED">
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=fff">
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <picture>
@@ -89,8 +90,6 @@
     <img alt="Tim's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titmf&layout=compact&langs_count=8&theme=default&hide_border=true">
   </picture>
 </p>
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
