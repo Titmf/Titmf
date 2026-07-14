@@ -40,11 +40,7 @@
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-000?logo=dotnet&logoColor=512BD4">
   <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity%20Framework-000?logo=nuget&logoColor=512BD4">
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-000?logo=fastapi&logoColor=009688">
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=fff">
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000?logo=pandas&logoColor=150458">
   <img alt="React" src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB">
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-000?logo=vite&logoColor=646CFF">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap&logoColor=7952B3">
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -61,6 +57,7 @@
 
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?logo=amazonwebservices&logoColor=FF9900">
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-000?logo=microsoftazure&logoColor=0078D4">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED">
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?logo=kubernetes&logoColor=326CE5">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=FCC624">
