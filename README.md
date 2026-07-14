@@ -109,6 +109,7 @@
 ## Let's Connect
 
 <p align="center">
+  <a href="https://github.com/Titmf/Titmf/blob/main/TimofeiCVdotnet.pdf" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="CV"/></a>
   <a href="https://github.com/Titmf" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/timf-workspace/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:mima.miheev.tm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
