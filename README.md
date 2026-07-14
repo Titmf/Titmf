@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Tim!</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Titmf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -81,6 +79,7 @@
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032">
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-000?logo=gitlab&logoColor=FC6D26">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-000?logo=stackoverflow&logoColor=FE7A16">
   <img alt="Rider" src="https://img.shields.io/badge/-Rider-000?logo=rider&logoColor=fff">
   <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-000?logo=dbeaver&logoColor=fff">
