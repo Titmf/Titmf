@@ -4,46 +4,68 @@
   <img src="https://komarev.com/ghpvc/?username=Titmf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-> Software developer focused on backend and automation. I build .NET/C# and Python services, and enjoy shipping full products — from scrapers and bots to web frontends.
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;.NET+%7C+Python+Backend;Automation+%26+Bots;Always+learning+new+things&center=true&width=380&height=45" alt="Typing SVG"></a>
+</p>
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming and Markup Languages
 
 <p>
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-000?logo=dotnet&logoColor=512BD4">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-000?logo=cplusplus&logoColor=00599C">
+  <img alt="C#" src="https://img.shields.io/badge/-C%23%20/%20.NET-000?logo=dotnet&logoColor=512BD4">
   <img alt="Python" src="https://img.shields.io/badge/-Python-000?logo=python&logoColor=3776AB">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=007ACC">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?logo=postgresql&logoColor=4169E1">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5&logoColor=E34F26">
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3&logoColor=1572B6">
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000?logo=markdown&logoColor=fff">
 </p>
 
-### 🧰 Frameworks & Libraries
+### 📚 Familiar With
 
 <p>
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-000?logo=dotnet&logoColor=512BD4">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=007ACC">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?logo=node.js&logoColor=339933">
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-000?logo=angular&logoColor=DD0031">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-000?logo=openjdk&logoColor=fff">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-000?logo=php&logoColor=777BB4">
+</p>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-000?logo=dotnet&logoColor=512BD4">
+  <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity%20Framework-000?logo=nuget&logoColor=512BD4">
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-000?logo=fastapi&logoColor=009688">
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=fff">
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-000?logo=pandas&logoColor=150458">
   <img alt="React" src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB">
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-000?logo=vite&logoColor=646CFF">
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-000?logo=fastapi&logoColor=009688">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000?logo=node.js&logoColor=339933">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap&logoColor=7952B3">
 </p>
 
-### 🗄️ Databases & Infrastructure
+### 🗄️ Databases and Cloud Hosting
 
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoColor=4169E1">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED">
-  <img alt="Oracle Cloud" src="https://img.shields.io/badge/-Oracle%20Cloud-000?logo=oracle&logoColor=F80000">
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=FCC624">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=4479A1">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb&logoColor=47A248">
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-000?logo=firebase&logoColor=DD2C00">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-000?logo=github&logoColor=fff">
 </p>
 
-### 💻 Tools
+### ⚙️ Technologies
 
 <p>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-000?logo=amazonwebservices&logoColor=FF9900">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=2496ED">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?logo=kubernetes&logoColor=326CE5">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=FCC624">
   <img alt="Git" src="https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-000?logo=github-actions&logoColor=2088FF">
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-000?logo=visual-studio-code&logoColor=007ACC">
-  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-000?logo=anthropic&logoColor=D97757">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-000?logo=githubactions&logoColor=2088FF">
 </p>
 
 ## 📊 GitHub Stats
